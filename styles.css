@@ -1,0 +1,15 @@
+/* styles.css */
+
+.recipesteps {
+    color: red;
+    background-color: black;
+    font-size: 14px;
+    font-family: "Times New Roman",sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
